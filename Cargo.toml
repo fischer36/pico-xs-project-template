@@ -1,0 +1,7 @@
+[package]
+name = "pico-xs-template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pico-xs = { path = "../pico_xs" }
